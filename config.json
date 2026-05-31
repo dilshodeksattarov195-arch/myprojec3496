@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensender",
+        "uuid": 5597096,
+        "checksum": "gvqwfp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
